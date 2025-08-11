@@ -1,6 +1,6 @@
 # Native FFM
 
-This repository demonstrates the FFM API support in GraalVM Native Image and collecting required configuration in `reachability-metadata.json`.
+This repository demonstrates the FFM API support in GraalVM Native Image and collecting required configuration in `reachability-metadata.json`. This example builds upon the [dev.java FFM API  tutorial](https://dev.java/learn/ffm/native/), modifying it to use `Arena.ofShared` and adding GraalVM instructions.
 
 ## Run:
 
